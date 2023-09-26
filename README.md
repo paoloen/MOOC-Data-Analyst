@@ -31,6 +31,13 @@ Los datos utilizados en este análisis se recopilaron de diversas fuentes públi
 
 Los resultados de este análisis proporcionan una visión integral de las plataformas de cursos en línea y su impacto en la educación global. Se presentan insights sobre las preferencias de los estudiantes, la efectividad de los cursos y la posición competitiva de cada plataforma.
 
+## Home
+
+Me complace compartir la primera presentación de mi análisis de datos en el fascinante mundo de los MOOCs (Cursos en línea abiertos y masivos). En esta exposición, he explorado y analizado exhaustivamente la evolución y el impacto de los MOOCs a través de destacadas plataformas educativas como Coursera, edX, Udemy, Harvard Online y el MIT OpenCourseWare. A través de gráficos perspicaces, revelaré datos reveladores sobre el promedio de alumnos por curso, la cantidad total de alumnos matriculados y la cantidad de cursos disponibles en cada plataforma. Esta presentación es solo el inicio de un profundo viaje de descubrimiento y aprendizaje sobre la educación en línea. ¡Los invito a acompañarme en esta emocionante travesía mientras exploramos las tendencias y el impacto de los MOOCs en la educación actual y futura.
+
+![home](https://github.com/paoloen/moocs.data.analyst/blob/main/homemooc.png)
+
+
 ## Coursera
 - En Coursera, se reveló una rica fuente de información, especialmente en lo referente a calificaciones de cursos, instituciones colaboradoras y número de estudiantes inscritos. Esta abundancia de datos permitió obtener valiosos conocimientos sobre la calidad percibida de los cursos, las principales instituciones educativas asociadas y la popularidad relativa de los cursos entre la comunidad estudiantil. Para visualizar y analizar eficazmente estos datos, se desarrolló un dashboard interactivo que proporciona una visión holística de estos aspectos clave, mejorando la toma de decisiones informadas en el ámbito educativo.
   
